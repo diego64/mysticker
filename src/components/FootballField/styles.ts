@@ -1,14 +1,14 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native'
 
 export const styles = StyleSheet.create({
   container: {
-    alignItems: 'center'
+    alignItems: 'center',
   },
   title: {
     textTransform: 'uppercase',
     color: '#FFF',
     fontWeight: 'bold',
     marginTop: 7,
-    fontSize: 14
-  }
-});
+    fontSize: 14,
+  },
+})

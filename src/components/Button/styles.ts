@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native'
 
 export const styles = StyleSheet.create({
   container: {
@@ -10,12 +10,12 @@ export const styles = StyleSheet.create({
     borderRadius: 5,
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 16
+    marginTop: 16,
   },
   title: {
     color: '#000000',
     fontWeight: 'bold',
     fontSize: 16,
-    textTransform: 'uppercase'
-  }
-});
+    textTransform: 'uppercase',
+  },
+})
